@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">A Fazer</string>
+    <string name="action_settings">Configurar</string>
+
+    <string name="menuitem_edit">Editar</string>
+    <string name="menuitem_delete">Apagar</string>
+    <string name="hint_name_required">Descrição (Requerido)</string>
+    <string name="hint_resume">Resumo</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_category">Categoria</string>
+    <string name="hint_date">Data</string>
+    <string name="label_resume">Tarefa:</string>
+    <string name="label_description">Descrição:</string>
+    <string name="label_category">Categoria:</string>
+    <string name="label_datet">Data:</string>
+    <string name="confirm_title">Tem certeza?</string>
+    <string name="confirm_message">Esta tarefa será apagada permanentementek</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_delete">Apagar</string>
+    <string name="task_added">Tarefa adicionada</string>
+    <string name="task_not_added">Tarefa náo foi adicionada, tem erros</string>
+    <string name="task_updated">Tarefa atualizada</string>
+    <string name="task_not_updated">Tarefa não foi atualizada há erros</string>
+    <string name="invalid_query_uri">Consulta invalida Uri:</string>
+    <string name="invalid_insert_uri">Inserção Invalida Uri:</string>
+    <string name="invalid_update_uri">Atualização Invalida Uri:</string>
+    <string name="invalid_delete_uri">Remoção Invalida Uri:</string>
+</resources>

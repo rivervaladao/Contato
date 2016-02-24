@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menuitem_edit">Editr</string>
+    <string name="menuitem_delete">DeleteApagar</string>
+    <string name="hint_resume">Resume</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_date">Date</string>
+    <string name="label_resume">Resume:</string>
+    <string name="label_description">Desccription:</string>
+    <string name="label_category">Category:</string>
+    <string name="label_date">Date:</string>
+    <string name="confirm_title">Tem certeza?</string>
+    <string name="confirm_message">This task ....</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="task_added">Tarefa adicionada</string>
+    <string name="task_not_added">Tarefa náo foi adicionada, tem erros</string>
+    <string name="task_updated">Tarefa atualizada</string>
+    <string name="task_not_updated">Tarefa não foi atualizada há erros</string>
+    <string name="invalid_query_uri">Consulta invalida Uri:</string>
+    <string name="invalid_insert_uri">Inserção Invalida Uri:</string>
+    <string name="invalid_update_uri">Atualização Invalida Uri:</string>
+    <string name="invalid_delete_uri">Remoção Invalida Uri:</string>
+    <string name="hint_name_required"></string>
+    <string name="hint_name_required">R</string>
+</resources>
