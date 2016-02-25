@@ -24,6 +24,5 @@
     <string name="invalid_insert_uri">Inserção Invalida Uri:</string>
     <string name="invalid_update_uri">Atualização Invalida Uri:</string>
     <string name="invalid_delete_uri">Remoção Invalida Uri:</string>
-    <string name="hint_name_required"></string>
-    <string name="hint_name_required">R</string>
+
 </resources>
